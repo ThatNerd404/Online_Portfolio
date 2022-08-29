@@ -5,7 +5,7 @@ def home():
     return "Hello! this is the test page <h1>HELLO<h1>"
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host='0.0.0.0')
 
 
 
