@@ -10,3 +10,8 @@ body {
     background-repeat: no-repeat;
     height: 739px;
     }
+.header {
+    background-color: rgb(32, 32, 32); 
+    border-radius: 5px;
+    
+}
