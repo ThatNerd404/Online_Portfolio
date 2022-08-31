@@ -29,9 +29,10 @@ footer {
 }
 img {
    object-fit: cover; 
-   margin-left: 1100px;
+   margin-left: 1175px;
 }
 
-.my_name {
+.top_bar {
     font-size: 30px;
+    font-weight: bold;
 }
