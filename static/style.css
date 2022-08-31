@@ -12,8 +12,8 @@ body {
     }
 header {
     background-color: rgb(32, 32, 32); 
-    padding: 30px
-
+    padding: 30px;
+    color: white;
 }
 section {
     margin: 0px;
@@ -26,4 +26,11 @@ aside {
 
 footer {
     margin: 0px;
+}
+img {
+   object-fit: cover; 
+}
+
+.my_name {
+    font-size: 30px;
 }
