@@ -10,8 +10,20 @@ body {
     background-repeat: no-repeat;
     height: 739px;
     }
-.header {
+header {
     background-color: rgb(32, 32, 32); 
-    border-radius: 5px;
-    
+    padding: 30px
+
+}
+section {
+    margin: 0px;
+
+}
+
+aside {
+    margin: 0px;
+}
+
+footer {
+    margin: 0px;
 }
