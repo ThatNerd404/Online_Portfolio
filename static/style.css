@@ -29,6 +29,7 @@ footer {
 }
 img {
    object-fit: cover; 
+   margin-left: 1100px;
 }
 
 .my_name {
