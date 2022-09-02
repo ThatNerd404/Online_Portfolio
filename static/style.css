@@ -11,9 +11,11 @@ body {
     height: 739px;
     }
 header {
+    font-size: larger;
     background-color: rgb(32, 32, 32); 
     padding: 30px;
     color: white;
+    height: 75px;
 }
 section {
     margin: 0px;
@@ -32,7 +34,3 @@ img {
    margin-left: 1175px;
 }
 
-.top_bar {
-    font-size: 30px;
-    font-weight: bold;
-}
