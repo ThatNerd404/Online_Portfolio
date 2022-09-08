@@ -27,7 +27,7 @@ aside {
 footer {
     margin: 0px;
 }
-img {
+.img {
    object-fit: cover; 
    margin-left: 1175px;
 }
