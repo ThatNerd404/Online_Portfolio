@@ -27,12 +27,12 @@ aside {
 footer {
     margin: 0px;
 }
-.img {
+.logo {
    object-fit: cover; 
    margin-left: 1175px;
 }
 
-.logo {
+.title {
     font-size: 30px;
     font-weight: bold;
 }
