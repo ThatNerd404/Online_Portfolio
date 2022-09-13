@@ -9,9 +9,10 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     height: 739px;
+    font-family: 'Times New Roman', Times, serif;
     }
 header {
-    background-color: rgb(32, 32, 32); 
+    background-color: rgba(32, 32, 32, 1.000); 
     padding: 30px;
     color: white;
 }
@@ -27,12 +28,32 @@ aside {
 footer {
     margin: 0px;
 }
-.logo {
+a {
    object-fit: cover; 
+   font-weight: bold;
    margin-left: 1175px;
+   text-decoration: none;
+   color: white;
 }
+
+a:hover,a:focus {
+    object-fit: cover; 
+    font-weight: bolder;
+    margin-left: 1175px;
+    text-decoration: underline;
+ }
 
 .title {
     font-size: 30px;
     font-weight: bold;
 }
+
+/*:hover {
+ only for links
+ put after a link class to make a psuedo class which talks about the state of it
+}*/
+/* must be put in this order or errors 
+link = normal aka unnesasary 
+visited is self explainitory
+active means while you are clicking on said link
+hover means when a mouse is hovering over it
