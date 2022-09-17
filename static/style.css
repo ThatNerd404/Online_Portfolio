@@ -29,23 +29,65 @@ footer {
     margin: 0px;
 }
 a {
-   object-fit: cover; 
    font-weight: bold;
-   margin-left: 1175px;
    text-decoration: none;
    color: white;
 }
 
-a:hover,a:focus {
-    object-fit: cover; 
-    font-weight: bolder;
-    margin-left: 1175px;
+a:hover,a:focus { 
+    font-weight: bold;
     text-decoration: underline;
  }
+
+.logo {
+    object-fit: cover;
+    float: right;
+}
 
 .title {
     font-size: 30px;
     font-weight: bold;
+
+}
+
+.me_bro {
+    text-align: center;
+    background-color: rgb(0, 0, 255);
+    margin: 30px;
+    margin-bottom: 10px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    width: 750px;
+    float:left;
+}
+
+.about_text {
+    color:white;
+    background-color: rgb(32, 32, 32);
+    width: 740px;
+    height: 130px;
+    margin: 30px;
+    margin-top: 20px;
+
+    border-top-width: 5px;
+    border-top-color: white;
+    border-top-style: solid;
+    
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    clear: both;
+}
+
+
+
+
+.coming_soon {
+    text-align: center;
+    background-color: rgb(0, 0, 255);
+    width: 250px;
+    float: right;
 }
 
 /*:hover {
