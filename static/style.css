@@ -40,6 +40,7 @@ footer {
 }
 
 .logo {
+    margin-right: 25px;
     object-fit: cover;
     float: right;
 }
@@ -51,9 +52,10 @@ footer {
 }
 
 .me_bro {
-    text-align: center;
-    background-color: rgb(0, 0, 255);
+    object-fit: cover;
+    
     margin: 30px;
+    margin-left: 187.5px;
     margin-bottom: 25px;
 
     border-width: 5px;
@@ -61,9 +63,8 @@ footer {
     border-style: solid;
     border-radius: 10px;
 
-    padding-top: 200px;
-    padding-bottom: 200px;
-    width: 745px;
+    height: 415px;
+    width: 415px;
     float:left;
 }
 
