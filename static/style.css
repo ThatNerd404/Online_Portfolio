@@ -16,11 +16,12 @@ header {
 }
 section {
     margin: 0px;
-
+    float:left;
 }
 
 aside {
     margin: 0px;
+    float:right;
 }
 
 footer {
@@ -65,7 +66,7 @@ footer {
 
     height: 415px;
     width: 415px;
-    float:left;
+    box-shadow: 10px 25px 28px rgb(0, 0,0.5);
 }
 
 .about_text {
@@ -74,7 +75,7 @@ footer {
     width: 740px;
     height: 120px;
     margin: 30px;
-    
+    margin-bottom: 10px;
 
     border-radius: 10px;
 
@@ -82,8 +83,9 @@ footer {
     padding-left: 5px;
     padding-right: 5px;
     padding-bottom: 0px;
+    box-shadow: 10px 25px 38px rgb(0, 0,0.5)
     
-    clear: both;
+    
 }
 .about_text h1 {
     color:white;
@@ -95,10 +97,44 @@ footer {
 
 
 .coming_soon {
+    color: white;
+    background-color: rgb(48, 48, 48);
+    width: 720px;
+    height: 544px;
+
+    margin: 30px;
+    
+    padding-top: 20px;
+    padding-bottom: 20px ;
+    
+    border-radius: 10px;
+    
+    box-shadow: 10px 25px 38px rgb(0, 0,0.5);
+    
+}
+.coming_soon h1 {
+    color: white;
+    background-color: rgb(48, 48, 48);
     text-align: center;
-    background-color: rgb(0, 0, 255);
-    width: 250px;
-    float: right;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    
+    
+}
+.coming_soon p {
+    color: white;
+    background-color: rgb(48, 48, 48);
+    text-align: center;
+    margin-bottom: 20px;
+    
+    
+}
+.coming_soon ul li {
+    color: white;
+    background-color: rgb(48, 48, 48);
+    margin-bottom: 30px;
+    
 }
 
 /*:hover {
