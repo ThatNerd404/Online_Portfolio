@@ -15,7 +15,7 @@ if __name__ == "__main__":
 #TODO: Improve aestheics 
 #TODO: Make the link redirect to my projects
 #TODO: Improve link to search github for projects and grab the readme text and use that to describe each thing I make automatically 
-
+#TODO: Possibly add more pages and a way to go between pages
 
 
 
