@@ -64,11 +64,50 @@ footer {
     border-style: solid;
     border-radius: 10px;
 
-    height: 415px;
-    width: 415px;
+    height: 310px;
+    width: 310px;
     box-shadow: 10px 25px 28px rgb(0, 0,0.5);
+    overflow: hidden;
 }
 
+.me_imgs {
+    width: 100%;
+    display: flex;
+    animation: slide 20s infinite;
+}
+
+@keyframes slide {
+   0%{
+    transform: translateX(0%);
+   } 
+   20%{
+    transform: translateX(0%);
+   } 
+   30%{
+    transform: translateX(-100%);
+   } 
+   40%{
+    transform: translateX(-100%);
+   } 
+   50%{
+    transform: translateX(-100%);
+   } 
+   60%{
+    transform: translateX(-200%);
+   } 
+   70%{
+    transform: translateX(-200%);
+   } 
+   80%{
+    transform: translateX(-300%);
+   } 
+   90%{
+    transform: translateX(-300%);
+   } 
+   100%{
+    transform: translateX(-400%);
+   } 
+}
 .about_text {
     color:white;
     background-color: rgb(48, 48, 48);
