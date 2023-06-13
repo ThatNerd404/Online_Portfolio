@@ -31,13 +31,13 @@ footer {
 .cool_link {
     font-weight: bold;
    text-decoration: none;
-   color: white;
+   color: #fad505;
 }
 
 .cool_link:hover {
     font-weight: bold;
    text-decoration: underline;
-   color: white;
+   color: #fad505;
 }
 
 .logo {
@@ -49,7 +49,7 @@ footer {
 .title {
     font-size: 30px;
     font-weight: bold;
-
+    color: #fad505;
 }
 
 .me_bro {
@@ -109,7 +109,7 @@ footer {
    } 
 }
 .about_text {
-    color:white;
+    color: #fad505 ;
     background-color: rgb(48, 48, 48);
     width: 740px;
     height: 120px;
@@ -127,7 +127,7 @@ footer {
     
 }
 .about_text h1 {
-    color:white;
+    color:#fad505;
     background-color: rgb(48, 48, 48);
     text-align: center;
 }
@@ -136,7 +136,7 @@ footer {
 
 
 .coming_soon {
-    color: white;
+    color: #fad505;
     background-color: rgb(48, 48, 48);
     width: 720px;
     height: 544px;
@@ -152,7 +152,7 @@ footer {
     
 }
 .coming_soon h1 {
-    color: white;
+   
     background-color: rgb(48, 48, 48);
     text-align: center;
     border-radius: 10px;
@@ -162,7 +162,7 @@ footer {
     
 }
 .coming_soon p {
-    color: white;
+    
     background-color: rgb(48, 48, 48);
     text-align: center;
     margin-bottom: 20px;
@@ -170,7 +170,7 @@ footer {
     
 }
 .coming_soon ul li {
-    color: white;
+    
     background-color: rgb(48, 48, 48);
     margin-bottom: 30px;
     
