@@ -13,6 +13,9 @@ header {
     background-color: rgba(48, 48, 48, 1.000); 
     padding: 30px;
     color: white;
+    border-bottom-color:#fad505;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
 }
 section {
     margin: 0px;
@@ -50,6 +53,8 @@ footer {
     font-size: 30px;
     font-weight: bold;
     color: #fad505;
+    
+
 }
 
 .me_bro {
@@ -59,8 +64,8 @@ footer {
     margin-left: 187.5px;
     margin-bottom: 25px;
 
-    border-width: 5px;
-    border-color: white;
+    border-width: 2px;
+    border-color:  #fad505;
     border-style: solid;
     border-radius: 10px;
 
@@ -116,7 +121,10 @@ footer {
     margin: 30px;
     margin-bottom: 10px;
 
+    border-color:#fad505;
+    border-style: solid;
     border-radius: 10px;
+    border-width: 1px;
 
     padding-top: 10px;
     padding-left: 5px;
@@ -142,6 +150,11 @@ footer {
 
     margin: 30px;
     
+    border-color:#fad505;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+
     padding-top: 20px;
     padding-bottom: 20px ;
     

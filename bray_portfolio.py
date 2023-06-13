@@ -12,7 +12,7 @@ if __name__ == "__main__":
 
 #TODO: improve website by:
 #* TODO: turning single picture into a slide show
-#TODO: Improve aestheics (change border colors to the same yellow and add some more stuff to make the home page have more going for it)
+#* TODO: Improve aestheics (change border colors to the same yellow and add some more stuff to make the home page have more going for it)
 #TODO: Make the link redirect to my projects
 #TODO: Improve link to search github for projects and grab the readme text and use that to describe each thing I make automatically 
 #TODO: Possibly add more pages and a way to go between pages
